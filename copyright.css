@@ -32,6 +32,15 @@ h1 {
 	padding: 1%;
 }
 
+.body_text {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+	padding: 1%;
+	text-align: center;
+}
+
 p{
 	font-size: 20px;
 }
